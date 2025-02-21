@@ -1,5 +1,6 @@
-# Hi, I'm Henoc. Engineering the future, one system at a time. 👋
-
+<p align="center">
+  <h1>Hi, I'm Henoc. Engineering the future in real time. 👋</h1>
+</p>
 
 
 A student @ <a href="https://www.utc.fr" target="_blank" rel="noopener noreferrer">UTC</a> 👨‍💻 
