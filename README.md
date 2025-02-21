@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-A student @ <a href="https://www.utc.fr" target="_blank">UTC</a> 👨‍💻 
-and an Embedded Software Engineer @ <a href="https://www.lgm.fr/" target="_blank">LGM Ingénierie</a>
+
+A student @ <a href="https://www.utc.fr" target="_blank" rel="noopener noreferrer">UTC</a> 👨‍💻 
+and an Embedded Software Engineer @ <a href="https://www.lgm.fr/" target="_blank" rel="noopener noreferrer">LGM Ingénierie</a>
+
 
 ### 📋 Languages
 
