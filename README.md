@@ -5,8 +5,11 @@ A student @ UTC 👨‍💻 and a software engineer @ Airbus Defence & Space �
 ### 📋 Languages
 
 <div align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/VHDL-%230072C6.svg?style=for-the-badge&logo=verilog&logoColor=white"/>
 </div>
 
 ---
