@@ -21,6 +21,7 @@ and an Embedded Software Engineer @ <a href="https://www.lgm-ing.fr/" target="_b
   <img src="https://img.shields.io/badge/ARM%20Mbed-0091BD.svg?style=for-the-badge&logo=arm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/RaspberryPi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PIC18F26J11-%230073CF.svg?style=for-the-badge&logo=microchip&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/SPI-%23FF6600.svg?style=for-the-badge&logo=serial&logoColor=white"/>
   <img src="https://img.shields.io/badge/I2C-%2300979D.svg?style=for-the-badge&logo=serial&logoColor=white"/>
@@ -31,6 +32,16 @@ and an Embedded Software Engineer @ <a href="https://www.lgm-ing.fr/" target="_b
   <img src="https://img.shields.io/badge/UART-%23A020F0.svg?style=for-the-badge&logo=serial&logoColor=white"/>
 </div>
 
+---
+
+### 🛠️ PCB Design & CAD
+
+<div align="left">
+  <img src="https://img.shields.io/badge/KiCad-%23007ACC.svg?style=for-the-badge&logo=kicad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ultiboard-%23F7A41D.svg?style=for-the-badge&logo=national-instruments&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Altium-%23A5915F.svg?style=for-the-badge&logo=altium-designer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SolidWorks-%23E2231A.svg?style=for-the-badge&logo=solidworks&logoColor=white"/>
+</div>
 
 
 
