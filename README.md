@@ -1,42 +1,44 @@
 ## Hi there 👋
 
-Hi 👋, I'm Hugo
+A student @ UTC 👨‍💻 and a software engineer @ Airbus Defence & Space 🚀  
 
-A student @ UTC 👨‍💻 and a software engineer @ Airbus_Defence_&_Space 🚀
-Contact
+### 📫 Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil/)  
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/votre-profil)
 
-📫 Please reach me: LinkedIn
+### 📄 My Resume  
+[![Resume](https://img.shields.io/badge/View%20Resume-563D7C?style=for-the-badge&logo=githubpages&logoColor=white)](https://tigrou23.github.io/resume)
 
-🚴‍♂️ Follow my activities: Strava
-My resume
+### 🛠 Tech Stack  
 
-📄 https://tigrou23.github.io/resume
+#### 📋 Languages  
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)  
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
 
-    LaTeX files are automatically compiled and published by a GitHub Action.
+####  Apple  
+![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)  
+![Xcode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg)  
 
-Upload when release and Update Pages
-🛠 Tech Stack
+#### 🌐 Web  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)  
 
-wakatime
-📋 Languages
+#### 📲 DevOps  
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)  
+![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
+![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg)  
 
-Java C C# C++ Python
- Apple
+#### 💾 Databases  
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
+![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)  
 
-Swift SwiftUI MapKit Xcode
-🌐 Web
-
-HTML5 CSS3
-JavaScript Express.js jQuery JWT NodeJS Django Flask
-📲 DevOps
-
-Docker GitLab CI GitHub Actions Github Pages Apache Jenkins Nexus SonarQube Maven
-💾 Databases and Analysis
-
-MariaDB MySQL Postgres SQLite Sequelize Pandas NumPy
-🎛️ Operating System
-
-Alpine Linux Debian Kali Windows macOS Ubuntu Shell
-👨‍💻 Workflow
-
-Git GitHub GitLab Markdown LaTeX Jira Confluence Trello Microsoft Office Google Workspace
+#### 🎛️ Operating Systems  
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)  
+![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg)  
+![macOS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg)  
