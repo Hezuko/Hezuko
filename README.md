@@ -16,7 +16,7 @@ and an Embedded Software Engineer @ <a href="https://www.lgm-ing.fr/" target="_b
 
 ---
 
-### 🔌 Embedded Systems
+### 🤖 Embedded Systems
 <div align="left">
   <img src="https://img.shields.io/badge/ARM%20Mbed-0091BD.svg?style=for-the-badge&logo=arm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
