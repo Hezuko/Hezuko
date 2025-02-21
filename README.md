@@ -11,17 +11,6 @@ A student @ UTC 👨‍💻 and a software engineer @ Airbus Defence & Space �
 
 ---
 
-###  Apple
-
-<div align="left">
-  <img src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-2.0-orange?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MapKit-0078D7?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-1589F0?style=for-the-badge&logo=apple&logoColor=white"/>
-</div>
-
----
-
 ### 🌐 Web
 
 <div align="left">
