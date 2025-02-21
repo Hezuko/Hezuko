@@ -27,8 +27,10 @@ and an Embedded Software Engineer @ <a href="https://www.lgm-ing.fr/" target="_b
   <img src="https://img.shields.io/badge/I2C-%2300979D.svg?style=for-the-badge&logo=serial&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethernet-%23F7DF1E.svg?style=for-the-badge&logo=ethernet&logoColor=black"/>
   <img src="https://img.shields.io/badge/CAN%20Bus-%23FF6600.svg?style=for-the-badge&logo=car&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LIN%20Bus-%2300AEEF.svg?style=for-the-badge&logo=serial&logoColor=white"/>
   <img src="https://img.shields.io/badge/RS232-%230078D7.svg?style=for-the-badge&logo=serial&logoColor=white"/>
 </div>
+
 
 
 ---
