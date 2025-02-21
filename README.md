@@ -16,6 +16,19 @@ and an Embedded Software Engineer @ <a href="https://www.lgm-ing.fr/" target="_b
 
 ---
 
+### 🔌 Embedded Systems
+
+<div align="left">
+  <img src="https://img.shields.io/badge/RTOS-%2300599C.svg?style=for-the-badge&logo=rtos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-%2300ADD8.svg?style=for-the-badge&logo=freertos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CAN%20Bus-FF6600.svg?style=for-the-badge&logo=car&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UART-0078D7.svg?style=for-the-badge&logo=serial&logoColor=white"/>
+</div>
+
+---
+
 ### 🌐 Web
 
 <div align="left">
@@ -60,4 +73,5 @@ and an Embedded Software Engineer @ <a href="https://www.lgm-ing.fr/" target="_b
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/embedded%20systems-%2300599C.svg?style=for-the-badge&logo=chip&logoColor=white"/>
 </div>
