@@ -9,6 +9,9 @@ and an Embedded Software Engineer @ <a href="https://www.lgm-ing.fr/" target="_b
 
 ### My resume
 
+<h3 align="center">📄 <a href="https://Hezuko.github.io/resume/resume.pdf" target="_blank">View My Resume (PDF)</a></h3>
+
+
 ---
 ### 📋 Languages
 
