@@ -9,7 +9,11 @@ and an Embedded Software Engineer @ <a href="https://www.lgm-ing.fr/" target="_b
 
 ### My resume
 
-<h3 align="center">📄 <a href="https://Hezuko.github.io/resume/resume.pdf" target="_blank">View My Resume (PDF)</a></h3>
+📄 [https://hezuko.github.io/resume](https://hezuko.github.io/resume)  
+
+> _LaTeX files are automatically compiled and published by a GitHub Action._  
+
+[![Upload when release and Update Pages](https://github.com/Hezuko/resume/actions/workflows/PDF_generation.yml/badge.svg)](https://github.com/Hezuko/resume/actions/workflows/PDF_generation.yml)
 
 
 ---
